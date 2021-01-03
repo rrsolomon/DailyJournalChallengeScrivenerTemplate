@@ -16,7 +16,7 @@ A simplistic Scrivener template that is designed for daily journaling.
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li>Write a journal entry every single day.</li><li>Set a timer for 10 minutes.</li><li>Fill out the </li></ul>
+<ul><li>Write a journal entry every single day.</li><li>Set a timer for 10 minutes.</li><li>Write as much as you can until the timer runs out. </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
