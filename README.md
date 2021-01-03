@@ -1,7 +1,7 @@
 # Daily Journal Challenge Scrivener Template
+![Daily Journal Challenge Scrivener Template](https://github.com/rrsolomon/DailyJournalChallengeScrivenerTemplate/blob/main/Daily%20Journal%20Challenge.png)
+
 A simplistic Scrivener template that is designed for daily journaling.
-
-
 
 <!-- wp:paragraph -->
 <p>You know what would be an awesome challenge? To be able to write a journal entry for everyday of year. It sounds simple enough, but the more I think about it the more difficult that it becomes to start, so with that in mind, I've decided to make my life a little easier by using two things to keep me in check for writing in my journal this year. For starters, I've designed a Scrivener template for daily journaling, which is divided into months, and each month has every day of every month. Next, I'm going to be using <strong><a href="https://jrnl.com/" target="_blank" rel="noreferrer noopener">JRNL.com</a></strong> to keep track of my journals, so I have no excuses for not being able to write my entry. So what's the challenge?</p>
